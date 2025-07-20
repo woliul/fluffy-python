@@ -1,5 +1,6 @@
-# **Fluffy Python**: My Daily Python Learning Journey! ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# **Fluffy Python** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+> ### My Daily Python Learning Journey!
 
 
 Welcome to **Fluffy Python!** This repository is the public journal and code hub for my daily Python learning initiative. My goal is to master Python through consistent practice and, most importantly, **to share my progress and help others learn along the way!**
