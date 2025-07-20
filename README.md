@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Copy of LinkedIn Newsletter Logo (1)" src="https://github.com/user-attachments/assets/9aa1456a-c45c-4f08-a925-a9586cf3b5a4" />
+
 # **Fluffy Python** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 > ### My Daily Python Learning Journey!
