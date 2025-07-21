@@ -1,8 +1,18 @@
 <img width="1920" height="1080" alt="LinkedIn Newsletter Logo for Woliul Hasan" src="https://github.com/user-attachments/assets/9aa1456a-c45c-4f08-a925-a9586cf3b5a4" />
 
-# **Fluffy Python** ![Python](https://img.shields.io/badge/PYTHON-v3.0-3670A0?style=for-the-logo&logo=python&logoColor=ffdd54)
+# **Fluffy Python** [![Python](https://img.shields.io/badge/PYTHON-3.0-darkorange?logo=python&logoColor=ffdd54)](https://python.org) [![Git Standards](https://img.shields.io/badge/Git%20Workflow-Professional-blue)](./CONTRIBUTING.md) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/woliul/fluffy-python/ci.yml?branch=main&label=CI)](https://github.com/woliul/fluffy-python/actions) 
 
-> ### My Daily Python Learning Journey!
+[![Repo Size](https://img.shields.io/github/repo-size/woliul/fluffy-python)](https://github.com/woliul/fluffy-python)
+[![Last Commit](https://img.shields.io/github/last-commit/woliul/fluffy-python)](https://github.com/woliul/fluffy-python/commits/main)
+[![Issues](https://img.shields.io/github/issues/woliul/fluffy-python)](https://github.com/woliul/fluffy-python/issues)
+[![Stars](https://img.shields.io/github/stars/woliul/fluffy-python)](https://github.com/woliul/fluffy-python/stargazers)
+
+[![License](https://img.shields.io/badge/License-MIT-079404.svg)](./LICENSE)
+[![Code of Conduct](https://img.shields.io/badge/Conduct-Contributor%20Covenant-079404)](CODE_OF_CONDUCT.md)
+[![Security](https://img.shields.io/badge/Security-Policy-important)](SECURITY.md)
+[![Support](https://img.shields.io/badge/Support-Get%20Help-blueviolet)](SUPPORT.md)
+
+### My Daily Python Learning Journey!
 
 
 Welcome to **Fluffy Python!** This repository is the public journal and code hub for my daily Python learning initiative. My goal is to master Python through consistent practice and, most importantly, **to share my progress and help others learn along the way!**
