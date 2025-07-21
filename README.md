@@ -35,6 +35,7 @@ Python needs to be installed on your computer.
     *  Run the installer. **IMPORTANT:** On the first screen, make sure to check the box that says **"Add Python to PATH"** before clicking "Install Now." This makes it much easier to run Python from your command prompt.
     *  Follow the on-screen instructions to complete the installation.
     *  **Verify Installation:** Open your Command Prompt (search for `cmd`) and type:
+  
           ```bash
           python --version
           ```
@@ -44,6 +45,7 @@ Python needs to be installed on your computer.
     * Python is often pre-installed on these systems.
        *  Open your Terminal application.
        *  Check if Python 3 is installed by typing:
+         
            ```bash
            python3 --version
            ```
@@ -51,11 +53,13 @@ Python needs to be installed on your computer.
     *  If it's not present or an older version, you might consider installing a newer version via your system's package manager
 
        *  **Homebrew for macOS**:
+         
           ```bash
           brew install python3
           ```
  
        *  **Debian/Ubuntu Linux**:
+         
           ```bash
           sudo apt-get install python3
           ```
@@ -84,10 +88,12 @@ Let's test your setup.
 3.  **Open Terminal/Command Prompt:** Navigate your terminal or command prompt to the folder where you saved `hello.py`.
     * For example, if you saved it in `C:\Users\YourUser\Documents\my-python-code`, you'd type `cd C:\Users\YourUser\Documents\my-python-code` (Windows) or `cd ~/Documents/my-python-code` (macOS/Linux).
 4.  **Run the Code:** Type the following command and press Enter:
+   
     ```bash
     python hello.py
     ```
     or for macOS/Linux if you installed `python3`:
+    
     ```bash
     python3 hello.py
     ```
