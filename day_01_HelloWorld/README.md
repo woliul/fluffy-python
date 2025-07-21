@@ -1,6 +1,6 @@
 # Day 1: Hello World & The `print()` Function 🗣️
 
-Welcome to Day 1 of my `fluffy-python` learning journey! Today, we're starting with the very first step in almost any programming language: making your code say "Hello World!" In Python, we do this using the fundamental `print()` function.
+Welcome to `Day 1` of my **Fluffy Python** learning journey! Today, we're starting with the very first step in almost any programming language: making your code say "Hello World!" In Python, we do this using the fundamental `print()` function.
 
 ### The `print()` Function: Your Program's Voice
 
@@ -65,13 +65,14 @@ To really solidify your understanding of `print()`, try these exercises:
 
 If you're new to Python or need a refresher on getting your environment ready:
 
-1.  Make sure you have Python installed ([Setup Guide in main README](https://www.google.com/search?q=../README.md)).
+1.  Make sure you have Python installed ([Setup Guide in main README](../README.md#-getting-started-setting-up-your-python-environment)).
 2.  Open your terminal or command prompt.
 3.  Navigate to this `Day_01_HelloWorld` directory.
+
     ```bash
     cd path/to/your/fluffy-python/Day_01_HelloWorld
     ```
-4.  Run the script using:
+5.  Run the script using:
     ```bash
     python hello_world.py
     # Or if you installed python3:
