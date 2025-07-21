@@ -86,8 +86,8 @@ Let's test your setup.
 
 ## 📂 Repository Structure
 
-* `./Day_01_HelloWorld/`: Code and notes for Day 1's concept.
-* `./Day_02_Variables/`: Code and notes for Day 2's concept.
+* `./day_01_HelloWorld/`: Code and notes for Day 1's concept.
+* `./day_02_Variables/`: Code and notes for Day 2's concept.
 * ...and so on!
 
 ## 🤝 Let's Connect!
