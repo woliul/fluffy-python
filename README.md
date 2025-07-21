@@ -1,6 +1,6 @@
 <img width="1920" height="1080" alt="LinkedIn Newsletter Logo for Woliul Hasan" src="https://github.com/user-attachments/assets/9aa1456a-c45c-4f08-a925-a9586cf3b5a4" />
 
-# **Fluffy Python** [![Python](https://img.shields.io/badge/PYTHON-3.0-darkorange?logo=python&logoColor=ffdd54)](https://python.org) [![Git Standards](https://img.shields.io/badge/Git%20Workflow-Professional-blue)](./CONTRIBUTING.md) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/woliul/fluffy-python/python-app.yml?branch=main&label=python-app)](https://github.com/woliul/fluffy-python/actions) 
+# **Fluffy Python** [![Python](https://img.shields.io/badge/PYTHON-3.0-darkorange?logo=python&logoColor=ffdd54)](https://python.org) [![Git Standards](https://img.shields.io/badge/Git%20Workflow-Professional-blue)](./CONTRIBUTING.md) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/woliul/fluffy-python/python-app.yml?branch=main&label=CI)](https://github.com/woliul/fluffy-python/actions) 
 
 [![Repo Size](https://img.shields.io/github/repo-size/woliul/fluffy-python)](https://github.com/woliul/fluffy-python)
 [![Last Commit](https://img.shields.io/github/last-commit/woliul/fluffy-python)](https://github.com/woliul/fluffy-python/commits/main)
