@@ -30,36 +30,47 @@ Ready to **fire up Python code on your machine** and code along? This guide will
 Python needs to be installed on your computer.
 
 * **For Windows Users:**
-  *  Go to the official Python website: [python.org/downloads](https://www.python.org/downloads/)
-  *  Download the latest stable version for Windows.
-  *  Run the installer. **IMPORTANT:** On the first screen, make sure to check the box that says **"Add Python to PATH"** before clicking "Install Now." This makes it much easier to run Python from your command prompt.
-  *  Follow the on-screen instructions to complete the installation.
-  *  **Verify Installation:** Open your Command Prompt (search for `cmd`) and type:
-        ```bash
-        python --version
-        ```
-        You should see the Python version number (e.g., `Python 3.10.0`).
+    *  Go to the official Python website: [python.org/downloads](https://www.python.org/downloads/)
+    *  Download the latest stable version for Windows.
+    *  Run the installer. **IMPORTANT:** On the first screen, make sure to check the box that says **"Add Python to PATH"** before clicking "Install Now." This makes it much easier to run Python from your command prompt.
+    *  Follow the on-screen instructions to complete the installation.
+    *  **Verify Installation:** Open your Command Prompt (search for `cmd`) and type:
+          ```bash
+          python --version
+          ```
+          You should see the **Python** version number (e.g., `Python 3.10.0`).
 
 * **For macOS and Linux Users:**
-    Python is often pre-installed on these systems.
-    *  Open your Terminal application.
-    *  Check if Python 3 is installed by typing:
-        ```bash
-        python3 --version
-        ```
-    *  If you see a version number (e.g., `Python 3.9.7`), you're likely good to go!
-    *  If it's an older version or not present, you might consider installing a newer version via your system's package manager (e.g., Homebrew for macOS: `brew install python3` or `sudo apt-get install python3` for Debian/Ubuntu Linux). Alternatively, you can download from [python.org/downloads](https://www.python.org/downloads/) as for Windows.
+    * Python is often pre-installed on these systems.
+       *  Open your Terminal application.
+       *  Check if Python 3 is installed by typing:
+           ```bash
+           python3 --version
+           ```
+       *  If you see a version number (e.g., `Python 3.9.7`), you're likely good to go!
+    *  If it's not present or an older version, you might consider installing a newer version via your system's package manager
+
+       *  **Homebrew for macOS**:
+          ```bash
+          brew install python3
+          ```
+ 
+       *  **Debian/Ubuntu Linux**:
+          ```bash
+          sudo apt-get install python3
+          ```
+    *  Alternatively, you can download from [python.org/downloads](https://www.python.org/downloads/).
 
 ### Step 2: Choose a Code Editor (Recommended: VS Code)
 
-A code editor makes writing and managing your code much easier.
+A code editor makes writing and managing your code much easier. You can use any of them.
 
 * **Visual Studio Code (VS Code):** Highly recommended due to its excellent Python support, extensions, and user-friendliness.
     *  Download VS Code from: [code.visualstudio.com](https://code.visualstudio.com/)
     *  Install it by following the instructions for your operating system.
     *  **Install Python Extension for VS Code:** Once VS Code is open, go to the Extensions view (Ctrl+Shift+X or Cmd+Shift+X), search for "Python" by Microsoft, and click "Install."
 
-* **Other Options:** PyCharm Community Edition, Sublime Text, Atom, or even a simple text editor like Notepad++ or TextEdit.
+* **Other Options:** PyCharm Community Edition, Sublime Text.
 
 ### Step 3: Run Your First Python Code!
 
