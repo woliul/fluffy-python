@@ -1,6 +1,6 @@
 # Day 2: Variables - Your Data Containers 📦
 
-Welcome to Day 2 of my `fluffy-python` learning journey! Today, we're diving into **variables** – a fundamental concept in programming that allows you to store and manage data within your programs. Think of them as labeled containers or named storage locations in your computer's memory.
+Welcome to `Day 2` of my **Fluffy Python** learning journey! Today, we're diving into **variables** – a fundamental concept in programming that allows you to store and manage data within your programs. Think of them as labeled containers or named storage locations in your computer's memory.
 
 ### What are Variables?
 
