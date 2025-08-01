@@ -1,7 +1,5 @@
 # Week 1 Recap: Putting it all together! 🎉
 
----
-
 Congratulations on completing Week 1 of our Python learning journey! This folder contains a small program that combines all the concepts we've covered this week:
 
 * **[Day 1](../day_01_HelloWorld)**: The `print()` function
