@@ -12,10 +12,11 @@
 [![Security](https://img.shields.io/badge/Security-Policy-important)](SECURITY.md)
 [![Support](https://img.shields.io/badge/Support-Get%20Help-blueviolet)](SUPPORT.md)
 
-### My Daily Python Learning Journey!
+### Daily Python Learning Journey!
 
 
-Welcome to **Fluffy Python!** This repository is the public journal and code hub for my daily Python learning initiative. My goal is to master Python through consistent practice and, most importantly, **to share my progress and help others learn along the way!**
+Welcome to **Fluffy Python!** This repository is the public journal and code hub for my daily Python learning initiative.
+> **[My goal](https://github.com/woliul/fluffy-python/blob/main/Roadmap.md)** is to master Python through consistent practice and, most importantly, **to share my progress and help others learn along the way!**
 
 Each day, I'll be posting a new Python concept or code snippet on [LinkedIn](https://www.linkedin.com/in/woliul/). All the code and related resources will be available right here.
 
