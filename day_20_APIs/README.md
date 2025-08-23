@@ -1,4 +1,4 @@
-# Day 20: Working with APIs 🌐
+# Day 20: Working with APIs 📱🧲🔌🔧
 
 Welcome to Day 20! Today, you're learning one of the most exciting skills in modern programming: how to use **APIs (Application Programming Interfaces)**. APIs allow your programs to communicate with other software applications and services over the internet.
 
