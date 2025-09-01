@@ -9,9 +9,7 @@ Web scraping is the process of extracting information from websites. Think of it
 ### The Tools
 
 * **`requests`:** This library is our workhorse for fetching the raw HTML content of a web page. It's like a delivery person bringing you a book from the internet.
-* **`BeautifulSoup`:** This is our parser. It takes the raw, unstructured HTML and makes it easy to navigate and search for specific tags (like headings, links, or paragraphs). It's like an intelligent librarian who organizes the book's content so you can find exactly what you're looking for. 
-
-[Image of a web scraper]
+* **`BeautifulSoup`:** This is our parser. It takes the raw, unstructured HTML and makes it easy to navigate and search for specific tags (like headings, links, or paragraphs). It's like an intelligent librarian who organizes the book's content so you can find exactly what you're looking for.
 
 
 ### Project Instructions
